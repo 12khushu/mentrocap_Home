@@ -1,0 +1,335 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+/*=========navbar css========*/
+.header-main {
+  padding: 1.4% 2.2%;
+  z-index: 9;
+  background-color: #fff;
+  width: 100%;
+  position: relative;
+}
+
+.nav_name a.navbar-top-text {
+  font-size: 16px !important;
+  font-weight: 500;
+  color: #303031 !important;
+  padding: 13px 15px;
+  text-decoration: none;
+}
+
+.navbar-light{
+  background-color: #fff;
+  margin: 0 45px;
+}
+.nav_name a{
+  min-height: 45px;
+  width: 15%;
+}
+.nav_name a:hover {
+  background: #114BBC;
+  border: 1px solid #114BBC;
+  color: #fff !important;
+  border-radius: 10px;
+  min-height: 45px !important;
+  width: 10% !important;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.nav_name a:hover {
+  background: #114BBC;
+  border: 1px solid #114BBC;
+  color: #fff !important;
+  border-radius: 10px;
+  min-height: 45px !important;
+  width: 10% !important;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+p.common-text-ourgoal.main-text {
+  margin-block: -22px;
+}
+.mb-5, .my-5 {
+  margin-bottom: 0rem!important;
+}
+nav.navbar.fixed-top {
+  top: -40px;
+  width: 100%;
+  margin: 0;
+  box-shadow: 0px 6px 8px #e6e6e6;
+  transform: translateY(35px);
+  transition: transform 0.2s;
+  padding: 1% 5.3%;
+  -webkit-transition: transform 0.2s;
+  -moz-transition: transform 0.2s;
+  -ms-transition: transform 0.2s;
+  -o-transition: transform 0.2s;
+  -webkit-transform: translateY(35px);
+  -moz-transform: translateY(35px);
+  -ms-transform: translateY(35px);
+  -o-transform: translateY(35px);
+}
+.logo_img{
+  padding: 40px;
+}
+
+.text-white {
+  color: #fff;
+}
+/* main section css===========*/
+h2.ourgoal_heading.main_ourgoal {
+  font-size: 70px;
+  margin: 0 50px;
+  letter-spacing: 5px;
+}
+img.img-fluid.img-responsive.work-img {
+  margin: 0 12px 50p;
+  margin: 0;
+}
+.col-md-6.what-we-do img {
+  padding: 25px;
+}
+img.img-fluid.img-responsive {
+  padding: 20p;
+ 
+}
+.success-card-details {
+  padding: 0 20px;
+}
+.ourgoal_heading {
+  font-size: 38px;
+  font-weight: 600;
+  color: #E43253;
+  font-family: "Barlow Condensed", sans-serif;
+  text-transform: uppercase;
+  padding: 0px 25px;
+  line-height: 2;
+ 
+}
+p.common-text-ourgoal.main-text {
+  padding: 0 84px;
+}
+.common-text-ourgoal {
+  font-size: 16px;
+  font-weight: 400;
+  color: #303031;
+  text-align: justify;
+  font-family: "Montserrat", sans-serif;
+  padding: 0px 28px;
+}
+
+.our_goal {
+  padding: 30px 15px 0% 15px;
+}
+
+.our_goal_info {
+  padding: 6.0% 0.2%;
+}
+
+.main-ourgoal {
+  font-size: 85px;
+  letter-spacing: 3px;
+  line-height: 1;
+}
+
+.main-text {
+  font-size: 1.288rem;
+  font-family: "Barlow Condensed", sans-serif;
+  line-height: 1.2;
+}
+
+.sub-banner-main {
+  background-image: url("../image/banner-3-bg.jpg");
+}
+
+.sub-banners {
+  
+  display: flex;
+  align-items: center;
+}
+
+.sub-banners img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 65%;
+  padding-top: 20px;
+}
+
+.sub-banner-image {
+  padding-top: 2.8%;
+}
+
+.sub-banner-text {
+  padding-left: 7%;
+}
+
+.what-we-do img {
+  max-width: 48%;
+}
+
+.platform-section-wrapper {
+  background-color: #E6F7FF;
+}
+
+.platform-section {
+  padding: 6% 6.4% 4.3%;
+  margin: 40px 0px 0px;
+}
+h4.common-text-ourgoal.card-text {
+  margin-block: 17px;
+}
+.work_heading {
+  font-size: 16px;
+  font-weight: 600;
+  padding: 0 16px;
+  margin-block: 20px;
+}
+
+.platform-section-wrapper h2 {
+  line-height: 1.3;
+}
+
+.whom-we-work-with-wrapper {
+  color: #fff;
+  background-color: #1870D5;
+}
+
+.work_withmain {
+  padding: 4.4% 2% 4.2%;
+}
+
+.Info-Heading {
+  font-size: 15px;
+  font-size: 1.5rem;
+}
+
+.work_withmain figure {
+  width: 25%;
+  padding: 11px;
+}
+
+.work_withmain-content {
+  padding: 0 50px;
+}
+.work_with {
+  display: flex;
+  margin: 0px 90px;
+  flex-wrap: wrap;
+}
+
+.card-date {
+  font-weight: 500;
+  padding: 0px;
+  font-size: 1.1rem;
+  margin-bottom: 6px;
+  margin-top: 25px;
+}
+
+.card-text {
+  font-weight: 600;
+  padding: 0px;
+  text-align: left;
+}
+
+.mentoring-for-success {
+  padding: 4.2% 5% 4.0%;
+}
+
+.success-card {
+  width: 33.33%;
+  padding: 11px;
+}
+
+.success-card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer_main {
+  background-color: #001A4D;
+  padding: 1.9% 7.4% 3%;
+  color: #fff;
+}
+.social-images img{
+  padding: 5px;
+  display: inline-block;
+  cursor: pointer;
+}
+a.subscription-content {
+  text-decoration: none;
+  font-size: 15px;
+}
+.footer-mainhead {
+  font-size: 16px;
+  font-weight: 500;
+    padding: 22px 0px
+}
+
+.footer_maintext a {
+  font-size: 14px;
+  font-weight: 400;
+  color: #fff;
+}
+
+.footer_maintext ul {
+  column-count: 2;
+  padding: 0;
+  white-space: inherit;
+  padding-left: 20px;
+}
+
+.footer_maintext ul li {
+  padding-bottom: 10px;
+}
+
+.footer_maintext ul li:nth-child(5) {
+  -webkit-column-break-after: always;
+  break-after: always;
+}
+
+.form .sub_button {
+  background-color: #114BBC;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 4px 12px;
+  font-size: 16px;
+  
+}
+button.btn.sub_button:hover {
+  background-color: #093E7B;
+  border-color: #093E7B;
+}
+
+.contact-email h6 {
+  padding-bottom: 0;
+  margin-top: 15px;
+}
+.email{
+    border: 1px solid lightslategray;
+    border-radius: 0;
+}
+.contact-email a {
+  text-decoration: underline;
+}
+
+.bottom-footer-wrapper {
+  font-size: 10px;
+  font-size: 1rem;
+}
+
+.bottom-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 28px 89px;
+  font-size: 16px;
+  font-weight: 500;
+}
+section.bottom-footer-wrapper {
+  background: #f6f6f6;
+}
+
